@@ -1,4 +1,7 @@
 ### Hi there 👋
+### * My name is Arda Özderyol
+### * I was born in 19th of January 2004
+### * I am currently studying at Bilkent University Faculty of Computer Science
 
 <!--
 **ardaozderyol/ardaozderyol** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
